@@ -1,2 +1,2 @@
 # SNCT DEV 1
-descrição básica
+descrição básica dev 1
